@@ -1,8 +1,8 @@
-### Opa! Seja bem vindo! 👋
+### Hi! Welcome! 👋
 
-- 🐱‍💻 Estou trabalhando no desenvolvimento Web.
-- 🐱‍🐉 Gosto de desenvolver em Python com Flask e Django.
-- 🐱‍🚀  Fun fact: Eu realmente gosto de aprender novos idiomas.
+- 🐱‍💻 Working with C, Python, and Java.
+- 🐱‍🐉 Focus on Web development (back-end).
+- 🐱‍🚀 Fun fact Programming to me, it's a part of my day.
 
 <div align="center">
   <a href="https://github.com/MoonHawlk">
