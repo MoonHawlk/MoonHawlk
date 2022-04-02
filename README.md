@@ -2,7 +2,7 @@
 
 - 🐱‍💻 Working with C, Python, and Java.
 - 🐱‍🐉 Focus on Web development (back-end).
-- 🐱‍🚀 Fun fact Programming to me, it's a part of my day.
+- 🐱‍🚀 Fun fact: Programming to me, it's a part of my day.
 
 <div align="center">
   <a href="https://github.com/MoonHawlk">
