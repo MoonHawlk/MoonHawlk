@@ -12,7 +12,7 @@
   <img align="center" alt="MoonHawlk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MoonHawlk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MoonHawlk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MoonHawlk-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="MoonHawlk-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="right" alt="MoonHawlk-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/427178720495927306/923407663763697664/steamuserimages-a.akamaihd.gif">
 </div>
 
