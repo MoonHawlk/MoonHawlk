@@ -1,8 +1,7 @@
 ### Hi! Welcome! 👋
 
-- 🐱‍💻 Working with C, Python, and Java.
-- 🐱‍🐉 Focus on Web development (back-end).
-- 🐱‍🚀 Fun fact: Programming to me, it's a part of my day.
+- 🐱‍💻 Working with Python and Java.
+- 🐱‍🐉 Focus on Back-end development and AI.
 
 <div align="center">
   <a href="https://github.com/MoonHawlk">
