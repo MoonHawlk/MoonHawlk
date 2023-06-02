@@ -4,7 +4,7 @@
 <br>
 ~ 💻Working with Python and Java.
 <br>
-~ 🐉Focus on Data-Analysis and ML/DL.
+~ 📖Focus on Data-Analysis and ML/DL.
 
   ~~~python
   print("Learn is the key of inovation!")
