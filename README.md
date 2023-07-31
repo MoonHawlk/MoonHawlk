@@ -1,6 +1,6 @@
 ### *Hi! What's up!* 👋
 
-~ 👦🏻I'm a CS ungraduated student that loves to know more about tech, and stuff.
+~ 👦🏻I'm a CS ungraduated student that loves to know more about tech, and the geek world.
 <br>
 ~ 💻Working with Python and Java.
 <br>
