@@ -29,12 +29,39 @@
   
 <div align="center">
   
+  <img align="center" alt="MoonHawlk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MoonHawlk-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="MoonHawlk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MoonHawlk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MoonHawlk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+</div>
+<h3 align="center">
+    
+    Framework
+    
+</h3>
+  
+<div align="center">
+
+  <img align="center" alt="MoonHawlk-NumPy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="MoonHawlk-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="MoonHawlk-Tensor-Flow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+  
+  
+</div>
+<h3 align="center">
+    
+    Tools
+    
+</h3>
+  
+<div align="center">
+
+  <img align="center" alt="MoonHawlk-Kaggle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg">
+  <img align="center" alt="MoonHawlk-Google-Colab" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg">
+  <img align="center" alt="MoonHawlk-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="MoonHawlk-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="MoonHawlk-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="MoonHawlk-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  
   
 </div>
 <h3 align="center">
