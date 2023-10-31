@@ -1,10 +1,10 @@
 ### *Hi! What's up!* 👋
 
-~ 👦🏻I'm a CS ungraduated student that loves to know more about tech, and the geek world.
-<br>
-~ 💻Working with Python and Java.
-<br>
-~ 📖Focus on Data-Analysis and ML/DL.
+- 👦🏻I'm a CS ungraduated student that loves to know more about tech, and the geek world.
+
+- 💻Working with Python and Java.
+
+- 📖Focus on Data-Analysis and ML/DL.
 
   ~~~python
   print("Learn is the key of inovation!")
@@ -23,7 +23,7 @@
 </div>
 <h3 align="center">
     
-    Knowledge
+    Languages
     
 </h3>
   
