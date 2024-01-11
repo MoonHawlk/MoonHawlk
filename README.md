@@ -2,13 +2,9 @@
 
 - 👦🏻I'm a CS ungraduated student that loves to know more about tech, and the geek world.
 
-- 💻Working with Python and Java.
+- 💻Working with Python and C.
 
-- 📖Focus on Data-Analysis and ML/DL.
-
-~~~python
-print("Learn is the key of inovation!")
-~~~
+- 📖Currently studying SciKit-Learn & TensorFlow.
   
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
