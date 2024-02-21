@@ -2,9 +2,9 @@
 
 - 👦🏻I'm a CS ungraduated student that loves to know more about tech, and the geek world.
 
-- 💻Working with Python and C.
+- 💻Working as a Data Scientist Intern at @Sidi.
 
-- 📖Currently studying SciKit-Learn & TensorFlow.
+- 📖Currently studying ML with Tensor-Flow.
   
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
