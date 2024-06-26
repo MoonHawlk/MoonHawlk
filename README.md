@@ -4,7 +4,7 @@
 
 - 💻Working as a Data Scientist Intern at Samsung Institute for Development Informatics (@SIDI).
 
-- 📖Currently studying ML with Tensor-Flow.
+- 📖Currently studying RAG and Deep Learning with Pytorch.
   
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
