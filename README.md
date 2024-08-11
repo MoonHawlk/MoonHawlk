@@ -4,7 +4,7 @@
 
 - 💻Working as a Data Scientist Intern at Samsung Institute for Development Informatics (@SIDI).
 
-- 📖Currently studying RAG and Deep Learning with Pytorch.
+- 📖Currently studying Machine Translation and RAGs Systems.
   
 <div align ="center"><b>Want to talk?</b></div><br>
 <div align="center">
