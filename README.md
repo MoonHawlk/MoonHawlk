@@ -2,7 +2,7 @@
 
 - 👦🏻I'm a CS ungraduated student that loves to know more about tech, and the geek world.
 
-- 💻Working as a Data Scientist Intern at Samsung Institute for Development Informatics (@SIDI).
+- 💻Working as a Data Scientist Trainee at Samsung Institute for Development Informatics (@SIDI).
 
 - 📖Currently studying Machine Translation and RAGs Systems.
   
