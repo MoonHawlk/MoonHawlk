@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👋 Hi there, I’m Filipe Moreno</h1>
-  <p>CS undergrad &amp; Data Scientist @ Samsung Institute for Development Informatics (SiDi)</p>
+  <p>Bsc. in CS &amp; Data Scientist @ Samsung Institute for Development Informatics (SiDi)</p>
 </div>
 
 ---
