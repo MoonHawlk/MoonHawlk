@@ -71,7 +71,7 @@
 
 ## 🎉 Fun Facts
 - 🎵 I’m a huge music lover, maybe every repo comes with its own soundtrack  
-- 🤖 Aspiring to create my own Jarvis one day  
+- 🤖 Aspiring to create my own Jarvis someday  
 - 🔧 Unofficial Troubleshooter, found it, now to solve it 🤡
 
 ---
