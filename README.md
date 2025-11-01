@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Bachelor’s in Computer Science
+- 🎓 Bachelor’s in Computer Science and currently pursuing my Master's degree in Computer Science
 - 🔍 Working in NLP, LLMs & RAG architectures
 - ⚙️ Passion about AI & CLI tools, trying to explore Go & Rust for high-performance systems (when possible 😅)
 - ☕ Fuelled by coffee, Driven by consistency, Making the future
