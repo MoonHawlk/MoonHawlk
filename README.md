@@ -20,36 +20,6 @@
 - ⚖️ Benchmarking some LLMs such as: Llama 3.1, Dolphin 3, Mistral & Zephyr on RAG tasks  
 - 🐙 Contributing to Open-source projects and Trend Tecnologies 
 
-## 🛠️ Skills & Tools
-
-<details>
-<summary>Click to see some of my skills 🔧</summary>
-
-### 🖥 Languages  
-![Python](https://img.shields.io/badge/Python-FFD347?style=for-the-badge&logo=python&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-539E43?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-61AFFE?style=for-the-badge&logo=go&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)  
-
-### 🤖 ML, NLP & RAG  
-![LangChain](https://img.shields.io/badge/LangChain-4C8BF5?style=for-the-badge)  
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8E44AD?style=for-the-badge)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFDE00?style=for-the-badge&logo=tensorflow&logoColor=black)  
-
-### 🗄 Databases & Storage  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![pgvector](https://img.shields.io/badge/pgvector-5E2CA5?style=for-the-badge)  
-
-### 🐳 DevOps & Infra  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-
-
-</details>
-
 ## 📫 Let’s Connect
 
 <p align="center">
