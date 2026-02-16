@@ -32,18 +32,6 @@
   </a>
 </p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoonHawlk&show_icons=true&theme=blue&count_private=true" height="150" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonHawlk&theme=blue" height="150" alt="GitHub Streak">
-</div>
-
-## 🎉 Fun Facts
-- 🎵 I’m a huge music lover, maybe every repo comes with its own soundtrack  
-- 🤖 Aspiring to create my own Jarvis someday  
-- 🔧 Unofficial Troubleshooter, found it, now to solve it 🤡
-
 ---
 
 > “Keep it simple, keep it fun, keep it running, and remember: Learning is the key to success.” 🚀
