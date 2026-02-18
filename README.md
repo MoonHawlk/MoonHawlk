@@ -17,7 +17,7 @@
 
 ## 💼 What I’m Up To
 - 🛠 Developing Reliable and Usefull Systems Based on Data
-- ⚖️ Benchmarking some Models, like: Llama, YOLO, QWEN3 TTS
+- ⚖️ Benchmarking, and creating applications with some Models, like: Llama, YOLO, QWEN3 TTS
 - 🐙 Contributing to Open-source projects and Trend Tecnologies 
 
 ## 📫 Let’s Connect
