@@ -16,8 +16,8 @@
 - ☕ Fuelled by coffee, Driven by consistency, Making the future
 
 ## 💼 What I’m Up To
-- 🛠 Developing LLMs and Agentetic Systems
-- ⚖️ Benchmarking some LLMs such as: Llama 3.1, Dolphin 3, Mistral & Zephyr on RAG tasks  
+- 🛠 Developing Reliable and Usefull Systems Based on Data
+- ⚖️ Benchmarking some Models, like: Llama, YOLO, QWEN3 TTS
 - 🐙 Contributing to Open-source projects and Trend Tecnologies 
 
 ## 📫 Let’s Connect
@@ -34,4 +34,4 @@
 
 ---
 
-> “Keep it simple, keep it fun, keep it running, and remember: Learning is the key to success.” 🚀
+> “Keep it simple, keep it fun, keep it running, and remember: Learning is the key to success.”
