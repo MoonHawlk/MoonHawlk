@@ -9,18 +9,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 Bachelor’s in Computer Science and currently pursuing my Master's degree in Computer Science
 - 🔍 Working in NLP, LLMs & RAG architectures
 - ⚙️ Passion about AI & CLI tools, trying to explore Go & Rust for high-performance systems (when possible 😅)
 - ☕ Fuelled by coffee, Driven by consistency, Making the future
 
-## 💼 What I’m Up To
+## What I’m Up To
 - 🛠 Developing Reliable and Usefull Systems Based on Data
 - ⚖️ Benchmarking, and creating applications with some Models, like: Llama, YOLO, QWEN3 TTS
 - 🐙 Contributing to Open-source projects and Trend Tecnologies 
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 <p align="center">
   <a href="mailto:filipemorenoprogramador@gmail.com">
